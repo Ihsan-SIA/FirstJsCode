@@ -60,16 +60,19 @@ console.log("The other operators sha, like * and / and mod, yktv!");
 let x = 39;
 
 //Comparism operators... used to compare two values and return a boolean result
-const y = 45
-const z = 67
-const g = "45"
+const y = 45;
+const z = 67;
+const g = "45";
 
+console.log("Check if y=45 is same as z=67");
 console.log(y == z);
-console.log(z > y);
+console.log("Check if z=67 is greater than y=45");
 console.log(z < y);
+console.log("Check if y=45 is less than or equal to z=67");
 console.log(y <= z);
-console.log(y >= z);       //grater than or euals to
+console.log("Check if y=45 is not equal to z=67");
 console.log(z != y);      //not euals to
+console.log("Check if y=45 is strictly equal to g=45");
 console.log(y === g)   //strictly equals to
 
 

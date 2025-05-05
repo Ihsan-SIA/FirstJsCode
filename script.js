@@ -35,7 +35,8 @@ let plus = 2;
 plus++;
 
 
-console.log(salt)
+console.log("Try printing the salt we declared earlier");
+console.log(salt);
 console.log(sugarContainer)
 console.log(maggi)
 console.log(check)

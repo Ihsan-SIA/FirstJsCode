@@ -37,15 +37,10 @@ plus++;
 
 console.log("Try printing the salt we declared earlier");
 console.log(salt);
+console.log("Try printing sugar earlier declared");
 console.log(sugarContainer)
+console.log("Try printing maggi const earlier declared");
 console.log(maggi)
-console.log(check)
-console.log(total)
-console.log(cal)
-console.log(plus)
-console.log(see)
-console.log(box)
-console.log(box[4])
 
 //OPERATORS IN JAVASCRIPT
 //Arithemetic operators

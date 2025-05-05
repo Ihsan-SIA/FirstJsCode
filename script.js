@@ -31,11 +31,9 @@ console.log(division);
 console.log("Print division again with increment++");
 division++;
 console.log(division);
-let plus = 2
-plus++
+let plus = 2;
+plus++;
 
-sugarContainer = "pomo"
-// maggiContainer = "beef"
 
 console.log(salt)
 console.log(sugarContainer)

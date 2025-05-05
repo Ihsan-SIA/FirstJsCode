@@ -46,28 +46,18 @@ console.log(maggi)
 //Arithemetic operators
 let a = 34;
 let b = 56;
-
+console.log("Try printing the sum of a and b variables earlier declared");
 const sum = a + b;       //Addition
 console.log(sum);
 
+console.log("Try printing the difference of a and b variables earlier declared");
 const sub = a - b;
 console.log(sub);        //subtraction
 
-const divi = b / a;
-console.log(divi)       //division
-
-const multi = a * b;
-console.log(multi)       //multiplication
-
-const mod = b % a;
-console.log(mod);        //modulus
-
-
+console.log("The other operators sha, like * and / and mod, yktv!");
 
 //Assignment operator
 let x = 39;
-// +=
-// -=
 
 //Comparism operators... used to compare two values and return a boolean result
 const y = 45

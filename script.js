@@ -86,11 +86,14 @@ const textbooks = false;
 const id = true;
 
 const checkOR = fee || uniform || id || textbooks;
+console.log("checkOR = fee || uniform || id || textbooks");
 console.log(checkOR);
+console.log("checkAND = fee && textbooks && uniform && id");
 const checkAND = fee && textbooks && uniform && id;
-console.log(checkAND)
-const checkAyo = (fee && id) || uniform
-console.log(checkAyo)
+console.log(checkAND);
+const checkAyo = (fee && id) || uniform;
+console.log("checkAyo = (fee && id) || uniform");
+console.log(checkAyo);
 
 
 //Uniary Operator

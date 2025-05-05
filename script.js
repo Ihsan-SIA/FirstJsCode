@@ -96,19 +96,10 @@ console.log("checkAyo = (fee && id) || uniform");
 console.log(checkAyo);
 
 
-//Uniary Operator
-//Increment ++
-//Decrement --
-let k = 3;
-k++;
-console.log(k)
-k--;
-console.log(k)
-
-
 //Tenary Operator.... compares two expressions and give a result on how you want to modify it
 //(condition) ? "" : ""
 const tenTest = 23 > 45 ? "Yes, this is true" : "No, this is quite wrong";
+console.log('The operation done: 23 > 45 ? "Yes, this is true" : "No, this is quite wrong"');
 console.log(tenTest);
 
 let anotherAge = 30;

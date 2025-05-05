@@ -103,5 +103,19 @@ console.log('The operation done: 23 > 45 ? "Yes, this is true" : "No, this is qu
 console.log(tenTest);
 
 let anotherAge = 30;
-let voting = age < 100 && age >= 18 ? "You can vote" : "You cannot vote"
-console.log(voting)
+let voting = age < 100 && age >= 18 ? "You can vote" : "You cannot vote";
+console.log('Operation done: age < 100 && age >= 18 ? "You can vote" : "You cannot vote"');
+console.log(voting);
+
+
+
+alert("Welcome to Ihsan website chief");
+let checkedNo = parseInt(prompt("Enter a first number:"));
+if (checkedNo %2 == 0)
+{
+    alert("Your number na even no bros");
+}
+else
+{
+    alert("Your number na odd boss, you sef be odd");
+}
